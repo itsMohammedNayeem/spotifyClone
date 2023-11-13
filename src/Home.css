@@ -1,0 +1,16 @@
+.home {
+  flex: 0.6;
+  flex-wrap: wrap;
+  margin: 0 20px;
+}
+
+.home__inputContainer {
+  background-color: white;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.home__inputContainer > img {
+  width: 100%;
+  border-radius: 10px;
+}

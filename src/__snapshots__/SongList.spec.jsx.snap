@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SongList render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`When songs array is passed to SongsList renders correctly when passed the props 1`] = `ShallowWrapper {}`;

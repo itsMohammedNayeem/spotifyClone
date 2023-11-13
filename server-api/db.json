@@ -1,0 +1,236 @@
+{
+  "songs": [
+    {
+      "id": "1",
+      "title": "A New Orleans Crawfish Boil",
+      "movie": "Youtube",
+      "duration": "7:39",
+      "artist": "Unicorn Heads",
+      "count": 26
+    },
+    {
+      "id": "2",
+      "title": "Acid",
+      "artist": "Jeremy Black",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "4:14"
+    },
+    {
+      "id": "3",
+      "title": "Barrel Full of Sea Monkeys",
+      "artist": "The Whole Other",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "3:17"
+    },
+    {
+      "id": "4",
+      "title": "Book The Rental Wit It",
+      "artist": "RAGE",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "2:31"
+    },
+    {
+      "id": "5",
+      "title": "Cages",
+      "artist": "Density & Time",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "3:16"
+    },
+    {
+      "id": "6",
+      "title": "Come Vibe With Me",
+      "artist": "Patrick Patrikios",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "3:12"
+    },
+    {
+      "id": "7",
+      "title": "Cooler Heads",
+      "artist": "Jeremy Black",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "4:33"
+    },
+    {
+      "id": "8",
+      "title": "Dodo Bird",
+      "artist": "Quincas Moreira",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "3:06"
+    },
+    {
+      "id": "9",
+      "title": "Dynamite",
+      "artist": "Patrick Patrikios",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "2:19"
+    },
+    {
+      "id": "10",
+      "title": "Getaway Powder",
+      "artist": "DJ Freedem",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "2:51"
+    },
+    {
+      "id": "11",
+      "title": "Go Get 'Em Tiger",
+      "artist": "The Whole Other",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "2:17"
+    },
+    {
+      "id": "12",
+      "title": "Keep It 98 Plus 2",
+      "artist": "RAGE",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "2:11"
+    },
+    {
+      "id": "13",
+      "title": "Lands Unknown",
+      "artist": "Futuremono",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "2:35"
+    },
+    {
+      "id": "14",
+      "title": "Long Road",
+      "artist": "Futuremono",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "1:50"
+    },
+    {
+      "id": "15",
+      "title": "Luxery",
+      "artist": "Causmic",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "3:02"
+    },
+    {
+      "id": "16",
+      "title": "Modern Situations",
+      "artist": "Unicorn Heads",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "8:52"
+    },
+    {
+      "id": "17",
+      "title": "New Horizons",
+      "artist": "Futuremono",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "1:46"
+    },
+    {
+      "id": "18",
+      "title": "OvO",
+      "artist": "Jeremy Black",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "3:34"
+    },
+    {
+      "id": "19",
+      "title": "Point Green Getdown",
+      "artist": "Craig MacArthur",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "2:28"
+    },
+    {
+      "id": "20",
+      "title": "Pure Magic",
+      "artist": "Chris Haugen",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "1:49"
+    },
+    {
+      "id": "21",
+      "title": "Rockville",
+      "artist": "Patrick Patrikios",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "2:30"
+    },
+    {
+      "id": "22",
+      "title": "Same Time",
+      "artist": "Spence",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "2:48"
+    },
+    {
+      "id": "23",
+      "title": "Steppers To Heavan",
+      "artist": "Freedom Trail Studio",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "3:35"
+    },
+    {
+      "id": "24",
+      "title": "Strong Bones",
+      "artist": "TrackTribe",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "2:57"
+    },
+    {
+      "id": "25",
+      "title": "Swampland",
+      "artist": "Chris Haugen",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "2:21"
+    },
+    {
+      "id": "26",
+      "title": "Sweet Release",
+      "artist": "Dan Lebowitz",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "2:12"
+    },
+    {
+      "id": "27",
+      "title": "The High Line",
+      "artist": "Causmic",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "2:54"
+    },
+    {
+      "id": "28",
+      "title": "Today's Plan",
+      "artist": "DJ Freedem",
+      "movie": "Youtube",
+      "count": 1,
+      "duration": "2:10"
+    },
+    {
+      "id": "29",
+      "title": "Two Face",
+      "movie": "Youtube",
+      "duration": "3:24",
+      "artist": "Causmic",
+      "count": 1
+    }
+  ]
+}

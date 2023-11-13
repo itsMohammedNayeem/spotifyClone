@@ -1,0 +1,134 @@
+.addsong {
+  flex: 0.6;
+  flex-wrap: wrap;
+  margin: 0 20px;
+}
+
+.addsong__inputContainer {
+  background-color: white;
+  padding: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.addsong__comment {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  border-radius: 25px;
+  height: 15px;
+  width: auto;
+  color: gray;
+  background-color: #eef3f8;
+  margin: 10px;
+}
+
+.addsong__comment > input {
+  outline: none;
+  border: none;
+  background: none;
+  font-weight: 400;
+  margin-left: 5px;
+  width: 60%;
+}
+
+.addsong__buttons {
+  display: flex;
+  flex-wrap: wrap;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 20px;
+  justify-content: space-between;
+}
+
+.form-control {
+  margin-top: 1rem;
+}
+
+.example label:first-child,
+.example .form-control:first-child {
+  margin-top: 0;
+}
+
+.input-feedback {
+  color: red;
+  margin-top: 0.25rem;
+}
+
+.text-sm {
+  font-size: 0.8rem;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.text-xs {
+  font-size: 0.75rem;
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}
+
+input:invalid,
+select:invalid,
+textarea:invalid {
+  border: 2px solid #ff7d87;
+  box-shadow: none;
+}
+
+.invalid input[type="email"],
+.invalid input[type="text"],
+.invalid input[type="number"] {
+  border-color: red;
+}
+
+.invalid .feedback {
+  color: red;
+}
+
+.valid input[type="email"],
+.valid input[type="text"],
+.valid input[type="number"] {
+  border-color: green;
+}
+
+.valid .feedback {
+  color: green;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.example {
+  padding: 1rem;
+  border: 1px solid #e2e2e4;
+  border-radius: 4px;
+}
+
+.example label:first-child,
+.example .form-control:first-child {
+  margin-top: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  .example {
+    border: 1px solid #444444;
+  }
+}
+
+.form-control {
+  margin-top: 1rem;
+}

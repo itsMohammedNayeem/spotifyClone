@@ -1,0 +1,29 @@
+.songdetail {
+  flex: 0.6;
+  flex-wrap: wrap;
+  margin: 0 20px;
+}
+
+.songdetail__inputContainer {
+  background-color: white;
+  padding: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.songdetail__inputContainer > H3 {
+  margin-bottom: 10px;
+}
+
+.songdetail_list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.songdetail__back {
+  margin-left: 20px;
+}

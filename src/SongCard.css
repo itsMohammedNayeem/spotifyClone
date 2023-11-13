@@ -1,0 +1,51 @@
+.songcard {
+  background-color: white;
+  padding: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.songcard_detail {
+  display: flex;
+  flex-wrap: inherit;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  /* align-items: center; */
+  /* font-size: 1.25vw; */
+}
+
+.songcard_buttons {
+  display: flex;
+  flex-wrap: unset;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.songcard__comment {
+  padding: 10px;
+  display: flex;
+  flex-wrap: initial;
+  /* align-items: center; */
+  border-radius: 25px;
+  height: 15px;
+  width: 75%;
+  color: gray;
+  background-color: #eef3f8;
+}
+
+.songcard__comment > form > input {
+  /* display: flex;
+  flex-wrap: unset; */
+  outline: none;
+  border: none;
+  background: none;
+  /* font-weight: 2vw; */
+  margin-left: 5px;
+}
+
+.songcard__comment > form > button {
+  outline: none;
+  border: none;
+  background: none;
+}

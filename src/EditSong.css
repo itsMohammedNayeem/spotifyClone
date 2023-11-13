@@ -1,0 +1,44 @@
+.editsong {
+  flex: 0.6;
+  flex-wrap: wrap;
+  margin: 0 20px;
+}
+
+.editsong__inputContainer {
+  background-color: white;
+  padding: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.editsong__comment {
+  padding: 10px;
+  display: flex;
+  /* flex-wrap: wrap; */
+  align-items: center;
+  border-radius: 25px;
+  height: 15px;
+  width: auto;
+  color: gray;
+  background-color: #eef3f8;
+  margin: 10px;
+}
+
+.editsong__comment > input {
+  outline: none;
+  border: none;
+  background: none;
+  font-weight: 400;
+  margin-left: 5px;
+  font-size: 1.25vw;
+}
+
+.editsong__buttons {
+  display: flex;
+  flex-wrap: wrap;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 20px;
+  justify-content: space-between;
+}

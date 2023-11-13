@@ -1,0 +1,70 @@
+.songlist {
+  flex: 0.6;
+  flex-wrap: wrap;
+  margin: 0 2vw;
+}
+
+.songlist_card {
+  background-color: white;
+  padding: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.songlist__stat {
+  margin-top: 10px;
+  margin-left: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.songlist__stats {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid lightgray;
+  background-color: white;
+  border-radius: 10px;
+}
+.songlist__hidebuttons {
+  /* margin-top: 10px;
+  margin-left: 20px; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.songlist__hide {
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+  border: 1px solid lightgray;
+  background-color: white;
+  border-radius: 30px;
+}
+
+.songlist__search {
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  border-radius: 5px;
+  height: 22px;
+  color: gray;
+  background-color: #eef3f8;
+}
+
+.songlist__search > input {
+  outline: none;
+  border: none;
+  background: none;
+  /* font-weight: 600; */
+  font-size: 1vw;
+}
+
+.songlist__hidebutons {
+  display: flex;
+  flex-wrap: inherit;
+  justify-content: space-between;
+}
